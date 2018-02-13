@@ -20,7 +20,7 @@ class Video
 
         private:
                 string m_title, m_url, m_comment;
-                float m_lenght;
+                float m_length;
                 int m_rating;
 };
 #endif
